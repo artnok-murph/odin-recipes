@@ -1,0 +1,39 @@
+body    {
+    background-color: lightblue;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.hrule  {
+    border-style: dashed;
+}
+
+.welcome    {
+    text-align: center;
+    color: blue;
+}
+
+#header {
+    color: green;
+    font-weight: bold;
+    text-align: center;
+    font-size: 50px;
+    text-decoration: underline;
+}
+
+.header {
+    text-decoration: underline;
+}
+
+.link  {
+    display: inline;
+    margin: auto;
+}
+
+.centerlink {
+    text-align: center;
+}
+
+.imgcontainer   {
+    text-align: center;
+}
